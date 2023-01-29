@@ -1,3 +1,3 @@
 # Python homework1
 
-**Tasks 2, 4, 6 & 8**
+**Tasks 1, 2, 3, 4 & 5**
